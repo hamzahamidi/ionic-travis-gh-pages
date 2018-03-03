@@ -1,0 +1,8 @@
+{
+  "name": "ionic-travis-gh-pages",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
