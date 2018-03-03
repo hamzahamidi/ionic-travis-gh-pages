@@ -1,4 +1,5 @@
 # Ionic Conference Application
+<img src="https://travis-ci.org/hamzahamidi/ionic-travis-gh-pages.svg?branch=master">
 
 This is the official Ionic demo app, showcasing a variety of Ionic Framework components and native features.
 
