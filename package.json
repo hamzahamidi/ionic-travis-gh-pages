@@ -16,7 +16,7 @@
     "ionic:lint": "npm run lint"
   },
   "dependencies": {
-    "@angular/common": "5.0.0",
+    "@angular/common": "5.2.11",
     "@angular/compiler": "5.0.0",
     "@angular/compiler-cli": "5.0.0",
     "@angular/core": "5.0.0",
