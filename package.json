@@ -8,7 +8,7 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
-    "build:web": "ionic build --prod",
+    "build:web": "ionic build --prod -- --base-href ./",
     "build:android": "ionic cordova run android --prod",
     "build:ios": "ionic cordova run ios --prod",
     "test": "ng test",
