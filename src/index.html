@@ -2,66 +2,36 @@
 <html lang="en" dir="ltr">
 
 <head>
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-112447507-1"></script>
-  <script>
-        window.dataLayer = window.dataLayer || [];
-
-        function gtag() {
-            dataLayer.push(arguments);
-        }
-        gtag('js', new Date());
-
-        gtag('config', 'UA-112447507-1');
-  </script>
-  <!-- Google Tag Manager -->
-  <script>
   <meta charset="UTF-8">
   <title>Ionic Conference App</title>
+
   <meta name="viewport" content="viewport-fit=cover, width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
   <meta name="format-detection" content="telephone=no">
   <meta name="msapplication-tap-highlight" content="no">
 
-  <link rel="icon" type="image/x-icon" href="assets/icon/favicon.ico">
-  <link rel="manifest" href="manifest.json">
   <meta name="theme-color" content="#387ef5">
 
   <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+  <base href="/">
+
+  <link rel="icon" type="image/x-icon" href="assets/img/appicon.png">
+
   <link rel="apple-touch-icon" href="assets/img/appicon.png">
 
-  <script>
-    /*
-     * if ('serviceWorker' in navigator) {
-     *   navigator.serviceWorker.register('service-worker.js')
-     *     .then(() => console.log('service worker installed'))
-     *     .catch(err => console.log('Error', err));
-     * }
-     */
-  </script>
-
-  <link href="build/main.css" rel="stylesheet">
-
+  <link rel="manifest" href="manifest.json">
 </head>
 
 <body>
 
-  <!-- Ionic's root component and where the app will load -->
-  <ion-app></ion-app>
+  <app-root></app-root>
 
-  <script src="cordova.js"></script>
+  <!-- Replace the API key with your own, see:
+    https://developers.google.com/maps/documentation/javascript/get-api-key -->
+  <!-- <script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB8pf6ZdFQj5qw7rc_HSGrhUwQKfIe9ICw"></script> -->
 
-  <!-- The polyfills js is generated during the build process -->
-  <script src="build/polyfills.js"></script>
-
-  <!-- The bundle js is generated during the build process -->
-  <script src="build/vendor.js"></script>
-
-  <!-- The bundle js is generated during the build process -->
-  <script src="build/main.js"></script>
-
-  <!-- google maps script is loaded last as to not block rendering -->
-  <script async defer src="https://maps.googleapis.com/maps/api/js"></script>
-
+  <noscript>Please enable JavaScript to continue using this application.</noscript>
 </body>
 
 </html>
