@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1594200192788,
+  "timestamp": 1594200221993,
   "index": "./index.html",
   "assetGroups": [
     {
@@ -47,8 +47,8 @@
         "./common-es2015.4857dd7367a60053514e.js",
         "./common-es5.4857dd7367a60053514e.js",
         "./index.html",
-        "./main-es2015.b273e869de289b074d1a.js",
-        "./main-es5.b273e869de289b074d1a.js",
+        "./main-es2015.569844b55e6c75ca2cd1.js",
+        "./main-es5.569844b55e6c75ca2cd1.js",
         "./polyfills-es2015.34bec0b5a9cb6f7b781f.js",
         "./polyfills-es5.8e5224a2d4ef437e2407.js",
         "./runtime-es2015.e89b8b66c23177857160.js",
@@ -320,9 +320,9 @@
     "./assets/img/speakers/turtle.jpg": "8bf240a802062bf0ee3c1b31ff12cd9158b5734e",
     "./common-es2015.4857dd7367a60053514e.js": "97beb6083a04a4b16efa8129de66274ca8b5265c",
     "./common-es5.4857dd7367a60053514e.js": "b9d6b9480836a24744716205c5c2b4589d9f58e4",
-    "./index.html": "49ae7f2e421c18ab951e3bf10c0a4f76a55838df",
-    "./main-es2015.b273e869de289b074d1a.js": "2d3fe5650537073dc481f9b5cbaf539c7d76f4ce",
-    "./main-es5.b273e869de289b074d1a.js": "87021d041da80349f2073c3a7b3e98997e052bd1",
+    "./index.html": "15b53b66232645cccafa316078fdb71c0d37dd57",
+    "./main-es2015.569844b55e6c75ca2cd1.js": "2d3fe5650537073dc481f9b5cbaf539c7d76f4ce",
+    "./main-es5.569844b55e6c75ca2cd1.js": "87021d041da80349f2073c3a7b3e98997e052bd1",
     "./polyfills-es2015.34bec0b5a9cb6f7b781f.js": "f1a42991c9a3bc247ca24479b2f2532bb729e8b5",
     "./polyfills-es5.8e5224a2d4ef437e2407.js": "1eacf674a131b3bb21a2586ce41516bab9c903dd",
     "./runtime-es2015.e89b8b66c23177857160.js": "b37fba7853b4902e491776443db42f7e0293297d",
