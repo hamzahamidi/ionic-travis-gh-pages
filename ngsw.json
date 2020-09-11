@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1599836086884,
+  "timestamp": 1599836155361,
   "index": "./index.html",
   "assetGroups": [
     {
@@ -212,7 +212,7 @@
         "./polyfills-dom-es2015.00fff5e164c378a8d720.js",
         "./polyfills-dom-es5.00fff5e164c378a8d720.js",
         "./polyfills-es2015.ec6a1da986b229d7327c.js",
-        "./polyfills-es5.9feadd0e91f4f60e4fd9.js",
+        "./polyfills-es5.71eb637249f8374dc841.js",
         "./runtime-es2015.1f2a0551487f49b59672.js",
         "./runtime-es5.1f2a0551487f49b59672.js",
         "./styles.91e92e375938bd57fc1f.css"
@@ -478,7 +478,7 @@
     "./assets/img/speakers/turtle.jpg": "8bf240a802062bf0ee3c1b31ff12cd9158b5734e",
     "./common-es2015.1e672de9c1d99b44dcec.js": "c5509e11c5587772455bf9641550b925e8514f10",
     "./common-es5.1e672de9c1d99b44dcec.js": "ff4e7119b00ca4529055be042a96890952384d5b",
-    "./index.html": "dea08d06e82b82a63a972672b802b088eb3f42e6",
+    "./index.html": "f36436e14e31777f2e758e8b67825849639f6b2e",
     "./main-es2015.562b2eae2639d735d30d.js": "5cbb96252d2cbae61aab103ba60e57d356ba0406",
     "./main-es5.562b2eae2639d735d30d.js": "42587eb66298bb49ea157193c1571bb5412e01fb",
     "./polyfills-core-js-es2015.659269812cc37e5e580d.js": "cb92e1b8d5016bfea3876e73ebd8857c5fd87ef7",
@@ -488,7 +488,7 @@
     "./polyfills-dom-es2015.00fff5e164c378a8d720.js": "badb5fa0f42eb553c84c3652a7e0ae2dd998b930",
     "./polyfills-dom-es5.00fff5e164c378a8d720.js": "badb5fa0f42eb553c84c3652a7e0ae2dd998b930",
     "./polyfills-es2015.ec6a1da986b229d7327c.js": "52b597ba94497ecc043dc228c4295e85475e78f8",
-    "./polyfills-es5.9feadd0e91f4f60e4fd9.js": "c13c6ea40aae2a0f8a8f5887c22a82bf31492d06",
+    "./polyfills-es5.71eb637249f8374dc841.js": "68c03f7c9a0d77ee4e96cd48f84c590f0580c991",
     "./runtime-es2015.1f2a0551487f49b59672.js": "9106b02f0cf574d4f5d135649bb70f0e5c1d0314",
     "./runtime-es5.1f2a0551487f49b59672.js": "45c1794f0ada9c0f52ba72985b07c7a13a4c7650",
     "./styles.91e92e375938bd57fc1f.css": "1bedd30ce413c2ee95f844142be0e8725c6b9dee"
